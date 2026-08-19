@@ -1,6 +1,5 @@
 # Vesper — Observability at the Speed of Compiled Code
 
-> **Acdyon Technologies Frontend Challenge (Part 2 — The Premium Home Page)**  
 > *Observe. Understand. Optimize.*
 
 ---
