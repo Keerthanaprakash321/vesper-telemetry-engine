@@ -8,7 +8,7 @@
 
 **Vesper** is a next-generation eBPF kernel telemetry engine designed for extreme restraint and sub-40μs tracing overhead. Stream microsecond traces, memory spans, and kernel metrics straight to your terminal with zero wrappers, zero runtime dependencies, and flat memory footprint scaling.
 
-This landing page demonstrates high-performance web architecture, zero-dependency design, 100% honest performance data, and subtle micro-interactions that earn their keep.
+This landing page demonstrates high-performance web architecture, zero-dependency design and subtle micro-interactions that earn their keep.
 
 ---
 
